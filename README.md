@@ -33,8 +33,3 @@
 **OS**
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-
-
-
-### Link
-[CV](https://is-jang.github.io)
