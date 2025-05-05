@@ -7,4 +7,4 @@
 ### 🛠️ Open Source Contribution
 | Repository | Summary | Link |
 |------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------|
-| [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)| Fix CarRacing discrete action docstring | [PR #1370](https://github.com/Farama-Foundation/Gymnasium/pull/1370) |
+| [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)| Fix CarRacing discrete action docstring | [Issue #1369](https://github.com/Farama-Foundation/Gymnasium/issues/1369), [PR #1370](https://github.com/Farama-Foundation/Gymnasium/pull/1370) |
